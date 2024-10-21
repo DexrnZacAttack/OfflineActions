@@ -1,3 +1,11 @@
+/*
+ * Copyright (c) 2024 DexrnZacAttack
+ * This file is part of OfflineActions.
+ * https://github.com/DexrnZacAttack/OfflineActions
+ *
+ * Licensed under the MIT License. See LICENSE file for details.
+*/
+
 //reference System.dll
 //reference System.Core.dll
 using MCGalaxy;
